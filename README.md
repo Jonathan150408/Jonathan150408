@@ -21,7 +21,7 @@
 
 > My AI...? Yeah, obviously. I don't know much about this subject.
 >
-> You might think I only talk about AI, but that's wrong - I love cats /ᐠ｡ꞈ｡ᐟ\ !!
+> You might think I only talk about AI, but that's wrong - I love cats /ᐠ｡ꞈ｡ᐟ\ 🔥🔥🔥 !!
 
 ## 📊 Some stats about me
 
