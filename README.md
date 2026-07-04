@@ -15,7 +15,7 @@
 
 > Guess what !! My AI 😉.
 >
-> I want to make my first LLM - an AI capable of responding.
+> I want to make my first LLM - an AI capable of responding and processing text.
 
 ## 🤔 I’m looking for help with ...
 
