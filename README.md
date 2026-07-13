@@ -27,6 +27,9 @@
 
 [![Jonathan150408's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Jonathan150408&theme=tokyonight&show_icons=true&card_width=100%&hide_border=true)](https://github.com/Jonathan150408)  
 [![Jonathan150408's top languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jonathan150408&theme=tokyonight&layout=donut&card_width=100%&hide_border=true)](https://github.com/Jonathan150408)  
+
+> Actually, Java isn't supposed to be here, instead I worked a lot with JavaScript. ~strange...?
+
 [![Jonathan150408's current streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=Jonathan150408&theme=tokyonight&card_width=100%&hide_border=true)](https://github.com/Jonathan150408)  
 [![Jonathan150408's pinned repos](https://github-readme-stats-fast.vercel.app/api/pin/?username=Jonathan150408&repo=IA-paternRecognizer&theme=tokyonight&card_width=100%&hide_border=true)](https://github.com/Jonathan150408/IA-paternRecognizer)
 
